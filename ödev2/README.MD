@@ -1,0 +1,1 @@
+# Alıstırma sayfaları yazıldı
