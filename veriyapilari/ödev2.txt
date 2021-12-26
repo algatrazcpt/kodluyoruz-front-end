@@ -1,0 +1,11 @@
+                                        [16,21,11,8,12,22]
+                                            dizi ortadan bölünüyor
+                                            [16] [21] [11]     [8] [12] [22]
+                                            /      |   |        /   |     |
+                                        [16]      [11][21]    [8]   [12][22]
+                                            
+                                            [11][16][21]        [8][12][22]
+                                            önce en soldakiler kontrol ediliyor
+                                                [8][11][12][21][22]
+
+                                        Big nation gösterimi n2
