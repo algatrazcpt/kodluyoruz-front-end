@@ -4,3 +4,4 @@
 # Ödev 2 klasör oluşturuldu
 ## Ödev 3  eklendi
 # Css ödev eklendi
+#ödev 6 eklendi
