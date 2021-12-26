@@ -5,3 +5,4 @@
 ## Ödev 3  eklendi
 # Css ödev eklendi
 # ödev 6 eklendi
+# veri yapilari ödev 1 eklendi
