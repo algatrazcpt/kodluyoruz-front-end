@@ -1,0 +1,15 @@
+Veri biliminde Bias(Yanlılık) kavramı
+
+Makinelerde takım tutar mı
+
+A takımlı makine b takımıyla ilgili sonuçları olması gerektiğinden kötü gösteriyor .Böyle bir durumun varlığında önce şunu hatırlamak gerekiyor makinaların bir duygusu var mıdır.
+O zaman sorunu kaynagı ne.Neden böyle bir durum ortaya çıkıyor.
+Makinanın ihtiyacı olan veriyi insan topluyor.Verinin doğruluğunu insan kontrol ediyor.Veriyi analiz eden insan.Verinin test sonuçlarını inceleyen insan.
+Veri çözümü yapan modeli geliştiren insan.Makina yanlılık yapmıyor.Burdaki sürecin suçlusu insan.
+İnsanların sahsi fikirlerine göre yeniden düzenlenmiş veriler olabilir.Belli bir grup için ayrıcalıklar eklenmiş olabilir.Verinin sonuçların direkmen müdahele edilmiş olabilir.
+Sorunu makinede aramak yerine insan faktörüne yönlendirmeliyiz.
+Makinenin yanlılık yaptığı düşünülüyorsa projedeki çalışanların yetkinlik düzeyleri azaltılabilir .
+Yapılan işin sonuçlarının ve testlerinin farklı bir grup tarafından tekrar değerlendirilmesi ve yeniden uygulanması istenebilir.Veri toplanırken verilerin bütünlüğü ve dogruluğu incelenebilir.
+Çözüm yolları izlenildiğinde makina için tekrardan modellendiğinde makinanın daha dogrusu insan yanlılığının sonuçlarının kaldırıldığı görülecektir.
+Bu sürece dair google translate güncel sürümünde çeviri yaptığınızdan o bir programcı yazdığınızda artık size iki cinsiyetinde kullanıldığı örnekleri  sunuyor.
+Makinanın verilerinin sonuçlarının tamamen objectif olması için yapılmış güzel bir adım.
