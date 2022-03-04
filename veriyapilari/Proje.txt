@@ -1,0 +1,38 @@
+Matematikte önermelerin programlamdaki kullanımı
+
+x<a   bir önerme degildir önermelerde dogruluk nettir burdaki a ve x dair içbir bilgi verilmemiştir
+
+3>4 Bu bir önermedi 3 degeri 4 ten büyük degildir ama önermedir
+
+
+Program yazarken kullanılaan en önemli yapılardan biride koşullardır 
+
+3<4 ise ve 7>4 ise çalış gibi bir ifademizin matematiksel yazılışı
+
+burda yapıyı parçalıp isimlendirisek
+
+a=3<4
+b=7>4
+Matematiksel gösterimi böyle olur
+a ∧ b
+
+5<4 ise veya 8>4 ise çalış gibi bir ifademizin matematiksel yazılışı
+
+burda yapıyı parçalıp isimlendirisek
+
+a=5<4
+b=8>4
+
+Matematiksel gösterimi böyle olur
+
+a V b
+
+5>9 degil ise ve 1>0 ise çalış gibi bir ifademizin matematiksel yazılışı
+
+a=5>9
+
+b=1>0
+
+Matematiksel gösterimi böyle olur
+
+~a ∧b 
